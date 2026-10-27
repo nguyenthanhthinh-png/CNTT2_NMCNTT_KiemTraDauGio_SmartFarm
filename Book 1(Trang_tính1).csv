@@ -1,0 +1,11 @@
+ma_tram,ma_linhkien,dung luong ram,ngay lap dat,ma linh kien sach,ten thiet bi,,,,,ma_linh_kien,ten_thiet_bi,don_gia,loai_storage
+ST01,LK01,4,,LK01,,,,,,LK01,Raspberry Pi 4 Model B,1.450.000,SSD
+ST02,LK03,8,,LK03,,,,,,LK02,Intel NUC i3,6.200.000,SSD
+ST03,LK04,16,,LK04,,,,,,LK03,Orange Pi 5,2.300.000,SSD
+ST04,LK02,6,,LK02,,,,,,LK04,Dell Optiplex Micro,5.400.000,HDD
+ST05,LK05,64,,LK05,,,,,,LK05,Mini PC Fanless N100,4.200.000,SSD
+ST06,LK02,32,,LK02,,,,,,LK06,Synology DS220j NAS,3.900.000,HDD
+ST07,LK03,4,,LK03,,,,,,,,,
+ST08,LK04,12,,LK04,,,,,,,,,
+ST09,LK01,8,,LK01,,,,,,,,,
+ST10,LK04,8,,LK04,,,,,,,,,
